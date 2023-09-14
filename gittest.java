@@ -15,6 +15,8 @@ public class gittest {
         System.out.println("Hello World5, stage 2");
 
         System.out.println("Test push");
+        
+        System.out.println("Test push, again");
     }
 }
 
