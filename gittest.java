@@ -13,6 +13,8 @@ public class gittest {
         System.out.println("Test branch");
 
         System.out.println("Test branch2, stage 1");
+
+        System.out.println("Test branch2, stage 2, but not commit");
     }
 }
 
